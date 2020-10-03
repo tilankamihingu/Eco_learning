@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Elearning/static/css/main.c630d468.chunk.css",
+    "main.js": "/Elearning/static/js/main.9469b881.chunk.js",
+    "main.js.map": "/Elearning/static/js/main.9469b881.chunk.js.map",
+    "runtime-main.js": "/Elearning/static/js/runtime-main.2c096d99.js",
+    "runtime-main.js.map": "/Elearning/static/js/runtime-main.2c096d99.js.map",
+    "static/js/2.7fac8b4a.chunk.js": "/Elearning/static/js/2.7fac8b4a.chunk.js",
+    "static/js/2.7fac8b4a.chunk.js.map": "/Elearning/static/js/2.7fac8b4a.chunk.js.map",
+    "index.html": "/Elearning/index.html",
+    "precache-manifest.a6cf69e9325748331a35db3c852bb77e.js": "/Elearning/precache-manifest.a6cf69e9325748331a35db3c852bb77e.js",
+    "service-worker.js": "/Elearning/service-worker.js",
+    "static/css/main.c630d468.chunk.css.map": "/Elearning/static/css/main.c630d468.chunk.css.map",
+    "static/js/2.7fac8b4a.chunk.js.LICENSE.txt": "/Elearning/static/js/2.7fac8b4a.chunk.js.LICENSE.txt",
+    "static/media/air1.jpg": "/Elearning/static/media/air1.468d6fb0.jpg",
+    "static/media/air2.jpg": "/Elearning/static/media/air2.1363afc7.jpg",
+    "static/media/air3.jpg": "/Elearning/static/media/air3.e76e0c4e.jpg",
+    "static/media/def1.jpg": "/Elearning/static/media/def1.204617c9.jpg",
+    "static/media/def2.jpg": "/Elearning/static/media/def2.0c3c69e0.jpg",
+    "static/media/def3.jpg": "/Elearning/static/media/def3.64b50607.jpg",
+    "static/media/four.jpg": "/Elearning/static/media/four.bfda25ed.jpg",
+    "static/media/nasa1.png": "/Elearning/static/media/nasa1.d9a0d4e9.png",
+    "static/media/nasa2.jpg": "/Elearning/static/media/nasa2.958dbdf0.jpg",
+    "static/media/one.jpg": "/Elearning/static/media/one.75e00025.jpg",
+    "static/media/three.jpg": "/Elearning/static/media/three.94ecd5ff.jpg",
+    "static/media/two.jpg": "/Elearning/static/media/two.8f0c6e2e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c096d99.js",
+    "static/js/2.7fac8b4a.chunk.js",
+    "static/css/main.c630d468.chunk.css",
+    "static/js/main.9469b881.chunk.js"
+  ]
+}
